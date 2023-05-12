@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
       <Navbar />
 
-      <h1>Hi Hello It's Me</h1>
+      <h1>Hi Hello Its Me</h1>
       
     </>
   )
